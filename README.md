@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sayansanyal4
-- 👀 I’m interested in HTML coding
-- 🌱 I’m currently learning HTML coding
+- 👀 I’m interested in learning software development 
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : My Email : sanyalsayan4@gmail.com
 - Phone No. - +918296035551
